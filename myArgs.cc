@@ -1,3 +1,5 @@
+//------ Copyright (C) 2017-2018 "NNmJYwg" -------//
+//------ GPL V3 -------//
 #include <iostream>
 
 int main(int argc, char *argv[])
